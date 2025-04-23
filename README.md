@@ -38,7 +38,7 @@ shiny::runApp()
 ```
 learnr-shiny/
 │
-├── app.R                # Main Shiny application file
+├── shiny_trend.R                # Main Shiny application file
 ├── README.md            # Project documentation
 └── ADHT.R               # Data Processing
 ```
